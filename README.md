@@ -31,16 +31,19 @@
 
 ### About
 
-This project is coursework and is shared publicly for visibility and review (see license below or visit: [Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 International License](https://creativecommons.org/licenses/by-nc-nd/4.0/).
+This project is coursework and is shared publicly for visibility and review (see license below or visit: [Creative Commons Attribution || Non-Commercial || No-Derivatives || 4.0 International License](https://creativecommons.org/licenses/by-nc-nd/4.0/).
 
 This project demonstrates the creation and sorting of 2-dimensional integer matrixes (integer arrays) and their sorting/manipulations using a variety of test cases.
 
 <br>
 <br>
 
-### License
-This work is licensed under a [Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 International License](https://creativecommons.org/licenses/by-nc-nd/4.0/).  
-You may view this repository but may not use, modify, or distribute it without explicit permission from the author.
+### License for Viewing and Usage
+
+This work is licensed under a [Creative Commons Attribution || Non-Commercial || No-Derivatives || 4.0 International License](https://creativecommons.org/licenses/by-nc-nd/4.0/).  
+
+You may view this repository but may **not use, modify, or distribute it without explicit permission from the author**.
+
 
 <br>
 <br>
