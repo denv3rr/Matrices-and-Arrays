@@ -1,14 +1,8 @@
-# Final - 2D Integer Arrays
-
-<br>
-<br>
-
 [COMMENT]: <LOGO*****************************************>
 <div align="center">
   <a href="https://seperet.com">
     <img src=https://github.com/denv3rr/denv3rr/blob/main/Seperet_NightVision_Slam.gif/>
-  </a>
-</div>
+  </a> 
   
 ![Website](https://img.shields.io/website?url=https%3A%2F%2Fseperet.com)
   
@@ -32,11 +26,19 @@
 
 *************
 
-This project is coursework and is shared publicly for visibility and review (see license below).
+<br>
+<br>
+
+### About
+
+This project is coursework and is shared publicly for visibility and review (see license below or visit: [Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 International License](https://creativecommons.org/licenses/by-nc-nd/4.0/).
 
 This project demonstrates the creation and sorting of 2-dimensional integer matrixes (integer arrays) and their sorting/manipulations using a variety of test cases.
 
-## License
+<br>
+<br>
+
+### License
 This work is licensed under a [Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 International License](https://creativecommons.org/licenses/by-nc-nd/4.0/).  
 You may view this repository but may not use, modify, or distribute it without explicit permission from the author.
 
@@ -410,20 +412,18 @@ All tests were completed successfully!
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif">
 </a>
 
-<br>
-<br>
-
 [COMMENT]: <LOGO*****************************************>
 <div align="center">
   <a href="https://seperet.com">
     <img src=https://github.com/denv3rr/denv3rr/blob/main/Seperet_NightVision_Slam.gif/>
   </a>
-</div>
   
 ![Website](https://img.shields.io/website?url=https%3A%2F%2Fseperet.com)
   
 </div>
 
+<br>
+<br>
 <br>
 <br>
 
